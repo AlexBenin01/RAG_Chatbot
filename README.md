@@ -104,7 +104,7 @@ Apri 👉 http://localhost:7860
 Nel file config.py puoi scegliere il backend:
 
 BACKEND_TYPE = "ollama"   # oppure "openai"
-
+```
 
 Per OpenAI:
 
